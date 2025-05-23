@@ -1,0 +1,41 @@
+# Фотоцентр
+
+## Описание
+
+Проект представляет собой веб-приложение с фронтендом на React и бэкендом на Node.js/Express.  
+Реализовано управление расписаниями и посещениями с обновлением данных в реальном времени через WebSocket.
+
+## Технологии
+
+### Фронтенд
+
+- React.js
+- Redux
+- Bootstrap / Tailwind CSS
+- WebSocket
+
+### Бэкенд
+
+- Node.js
+- Express.js
+- REST API
+- JWT для аутентификации
+- Socket.IO
+
+### База данных
+
+- PostgreSQL
+
+### Дополнительно
+
+- Docker и docker-compose для контейнеризации
+- Nginx для веб-сервера
+- Git для контроля версий
+
+## Установка и запуск
+
+### Клонирование репозитория
+
+```bash
+git clone https://github.com/username/repo.git
+cd repo
