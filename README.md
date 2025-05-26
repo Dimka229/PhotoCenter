@@ -26,4 +26,5 @@
 
    ```bash
    git clone https://github.com/Dimka229/-
-   cd photocenter
+   cd PhotoCenter
+   DATABASE_URL=postgresql://postgres:kod296263@localhost:5432/PhotoCenter
